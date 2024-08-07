@@ -1,5 +1,4 @@
 Flask==3.0.3
-llama_index==0.10.62
 nltk==3.8.1
 openai==1.40.0
 python-dotenv==1.0.1
